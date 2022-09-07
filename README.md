@@ -9,7 +9,7 @@ I have created website since I was child.
 * CASC (https://casc.qwiproject.com/)
 
 ### Learning now 📝
-* Enligsh
+* English
 * Python
 * TypeScript
 
