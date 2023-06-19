@@ -1,19 +1,5 @@
 ### Hi there 👋
 I'm front-end engineer in Japan.
-I have created website since I was child.
-
-### My Love things 😍
-* HTML5/CSS3
-* Atomic Design
-* BEM (https://en.bem.info/)
-* CASC (https://casc.qwiproject.com/)
-
-### Learning now 📝
-* English
-* Python
-* TypeScript
-
-
 
 <!--
 
